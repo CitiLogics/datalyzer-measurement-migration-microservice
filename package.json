@@ -29,7 +29,7 @@
     "sapper": "^0.15.0",
     "sirv": "^0.1.1",
     "style-loader": "^0.22.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.2",
